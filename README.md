@@ -1,10 +1,11 @@
 Proposed new Xu Group Website Layout
 
 TODO:
-- update group “our focus” description
-- update entire “research” page
-- need a “join us” photo for the “open positions” bit - group poster for chem thing?
-- add news archive and alumni pages
+- finish updating all members. 
+update group “our focus” description, GET DESCRIPTION FROM TING.
+- update entire “research” page, GET DESCRIPTIONS FROM 1 PERSON IN EACH SUBGROUP.
+- need a “join us” photo for the “open positions” bit - group poster for chem thing?, TAKE NEW GROUP PHOTO.
+- finish building archive and alumni pages
+- finish adding publications 1-69
 - add all links to all pages.
-- finish updating all the publications and members.
 - Add useful links section to internals: reimbursement forms, group box folder etc.

@@ -1126,6 +1126,8 @@ h1, h2, h3, h4, h5,
     padding: 10px 20px; }
     .post-entry-2 .contents h2 {
       font-size: 15px; }
+    .post-entry-2 .contents li {
+      font-size: 12px;}
 
 .trend-entry {
   margin-bottom: 30px; }
