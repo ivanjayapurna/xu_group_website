@@ -1,11 +1,13 @@
 Proposed new Xu Group Website Layout
 
 TODO:
-- build out alumni page.
-- build out news archive page. 
-- update group “our focus” description, GET DESCRIPTION FROM TING.
-- update entire “research” page, GET DESCRIPTIONS FROM 1 PERSON IN EACH SUBGROUP.
-- need a “join us” photo for the “open positions” bit - group poster for chem thing?
-- finish adding publications 1-69
-- Make links on people's names in members dead links (or to personal websites / linked ins)
-- Add box folder link to internal page.
+- finish adding to news archive page.
+- finish adding publications 1-69.
+- add pictures of Andrew and Gautam
+- update project descriptions if yours currently are not correct, if you didn't have a project description on the old website I just put down your subgroup name
+- Update the "what we do" on home page and the entire "Research" page - currently out of date.
+- If you want your name to link to your linkedIn or personal website, send it to me and I can add it.
+- add missing undergrads who want to be on the website
+- New group photo!
+- Can someone send me a picture of the stick figure drawing someone made of our group, and any other images you have that I can put on the website to give it some personality.
+- Transfer alumni to new page (for now the link just goes to the old website's alumni page)
