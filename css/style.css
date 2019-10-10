@@ -1105,14 +1105,14 @@ h1, h2, h3, h4, h5,
 .date-read {
   color: #b4b4b4; }
 
-.post-entry-1, .post-entry-2 {
+.post-entry-1, .post-entry-2, .post-entry-3 {
   font-size: .9rem;
   margin-bottom: 30px; }
-  .post-entry-1 img, .post-entry-2 img {
+  .post-entry-1 img, .post-entry-2 img, .post-entry-3 img {
     margin-bottom: 30px; }
-  .post-entry-1 h2, .post-entry-2 h2 {
+  .post-entry-1 h2, .post-entry-2 h2, .post-entry-3 h2 {
     font-size: 20px; }
-    .post-entry-1 h2 a, .post-entry-2 h2 a {
+    .post-entry-1 h2 a, .post-entry-2 h2 a, .post-entry-3 h2 a {
       color: #000; }
 
 .post-entry-2 {
@@ -1127,7 +1127,22 @@ h1, h2, h3, h4, h5,
     .post-entry-2 .contents h2 {
       font-size: 15px; }
     .post-entry-2 .contents li {
-      font-size: 12px;}
+      font-size: 15px;}
+
+.post-entry-3 {
+  font-size: .9rem; }
+  .post-entry-3 .thumbnail {
+    background-size: cover;
+    background-position: center;
+    width: 20%; }
+  .post-entry-3 .contents {
+    width: 80%;
+    padding: 10px 20px; }
+    .post-entry-3 .contents h2 {
+      font-size: 15px; }
+    .post-entry-3 .contents li {
+      font-size: 15px;}
+
 
 .trend-entry {
   margin-bottom: 30px; }
