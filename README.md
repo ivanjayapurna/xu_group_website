@@ -1,8 +1,8 @@
 # New Xu Group Website
 
 ## TODO:
+- finish adding news archive!
 - update project descriptions if yours currently are not correct, if you didn't have a project description on the old website I just put down your subgroup name
-- Update the "what we do" on home page and the entire "Research" page - currently out of date.
 - If you want your name to link to your linkedIn or personal website, send it to me and I can add it.
 - add missing undergrads who want to be on the website
 - New group photo!
