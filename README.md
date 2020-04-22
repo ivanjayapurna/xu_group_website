@@ -1,5 +1,15 @@
 # New Xu Group Website
 
+## TO UPDATE WEBSITE:
+1. Make the changes locally and make sure everything looks good.
+2. Open terminal and run: sh push_to_git.sh
+3. When you are prompted for usernames and passwords fill them in.
+4. Login to the remote server by running: ssh YOUR_USERNAME@kepler.berkeley.edu
+5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup/xu_group_website
+6. Run this in the remote server: sh update.sh
+7. Wait til it says "done!" and check there are no error messages, then you can exit by typing: exit
+
+
 ## TODO:
 - finish adding news archive!
 - update project descriptions if yours currently are not correct, if you didn't have a project description on the old website I just put down your subgroup name
@@ -9,6 +19,7 @@
 - Can someone send me a picture of the stick figure drawing someone made of our group, and any other images you have that I can put on the website to give it some personality.
 - Transfer alumni to new page (for now the link just goes to the old website's alumni page)
 - Finish adding publications 1-49 (for now there is just a link at the bottom to the old publications page)
+
 
 
 ## Useful Commands:
