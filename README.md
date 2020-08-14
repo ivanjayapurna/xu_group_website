@@ -5,7 +5,7 @@
 2. Open terminal and run: sh push_to_git.sh
 3. When you are prompted for usernames and passwords fill them in.
 4. Login to the remote server by running: ssh YOUR_USERNAME@kepler.berkeley.edu
-5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup/xu_group_website
+5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup
 6. Run this in the remote server: sh update.sh
 7. Wait til it says "done!" and check there are no error messages, then you can exit by typing: exit
 
