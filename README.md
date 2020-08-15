@@ -1,13 +1,15 @@
 # New Xu Group Website
 
 ## TO UPDATE WEBSITE:
+0. BEFORE MAKING ANY CHANGES: navigate to the website repo on your local computer (where you make changes) and run: git pull origin master , this command will ensure that any changes made by someone else will get pulled first and you have the most up-to-date website before you make your changes.  
 1. Make the changes locally and make sure everything looks good.
-2. Open terminal and run: sh push_to_git.sh
+2. Open terminal and run: sh push_to_git.sh (this pushes your stuff to github)
 3. When you are prompted for usernames and passwords fill them in.
 4. Login to the remote server by running: ssh YOUR_USERNAME@kepler.berkeley.edu
-5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup
-6. Run this in the remote server: sh update.sh
+5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup (navigate to the correct xu group website folder)
+6. Run this in the remote server: sh update.sh (this does some git pulling file copying stuff to put things in the right place)
 7. Wait til it says "done!" and check there are no error messages, then you can exit by typing: exit
+8. check website changes were made correctly in an in cognito window (your main web browser may store a cached version of the older version so you may not see any changes).
 
 
 ## TODO:
